@@ -1,0 +1,12 @@
+def compare(s1,s2):
+    count=0
+    for i in range (1, n):
+        if(str() == str()):
+            count=count+1
+s1 =input("enter the fisrt string")
+s2 =input("enter the second string")
+if s1==s2:
+    print("true")
+else:
+    print("false")
+print("length of the  string is",len(s1),"and",len(s2))

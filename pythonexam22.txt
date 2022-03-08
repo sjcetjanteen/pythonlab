@@ -1,0 +1,16 @@
+import math
+#area of triangle
+l = int(input("enter the lengthof the triangle"))
+b = int(input("enter the breadth of the triangle"))
+area_triangle = ((l*b)/2)
+print("area of the triangle is: ", area_triangle)
+#area of rectangle
+l1 = int(input("enter the length of the rectangle"))
+b1 = int(input("enter the breadth of rectangle"))
+area_rect = l1*b1
+print("area of rectangle is: ", area_rect)
+#area of circle
+pi = 3.14
+r = float(input("enter the radius of the circle"))
+area_circle = pi*r*r
+print("area of circle is: ", area_circle)
